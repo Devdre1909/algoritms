@@ -1,0 +1,21 @@
+{
+  "name": "data-strcture",
+  "version": "1.0.0",
+  "description": "Random algorithms",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "jest",
+    "angorithm"
+  ],
+  "author": "Adegoke Temitope",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
